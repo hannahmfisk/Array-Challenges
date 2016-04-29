@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 public class ArrayChallengesTwo
 	{
+		//testing testing
 		static ArrayList<Double> temps;
 		static double max;
 		static double min;
